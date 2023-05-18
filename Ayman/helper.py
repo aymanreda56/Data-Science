@@ -119,6 +119,7 @@ def CleanseData(df):
     #new_df.drop(columns=['Bullied_not_on_school_property_in_past_12_months', 'Cyber_bullied_in_past_12_months', 'Bullied_on_school_property_in_past_12_months'], inplace=True)
     new_df['Bullied'] = False*len(new_df)
     new_df.loc[ (new_df['Bullied_in_school'] == True) | (new_df['Bullied_Outside_School']) == True,'Bullied'] = True
+    new_df['Bullied'] = new_df['Bullied'].astype(bool)
 
     return new_df
 
