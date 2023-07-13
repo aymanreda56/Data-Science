@@ -4,7 +4,7 @@
 This project is an implementation of our Data-Science course project, it involves choosing questions, doing the famous DS epicycle to solve each question as is. then documenting the results after each step.
 
 ### The Famous DS epicycle  🔩
-![image](https://github.com/aymanreda56/Data-Science/assets/58632281/a38a69f4-2ba5-4871-933e-9bf8ae6682e8)
+![image](https://bookdown.org/rdpeng/artofdatascience/epicycles-of-analysis.html)
 
 ## Problem Definition 😟
 Bullying was present for a long period of time but left unnoticed, bullying is tightly correlated with PTSD among children. 95% of patients in psych wards reported being bullied during their childhood.
@@ -52,7 +52,7 @@ which you can also find them in this [report](https://docs.google.com/document/d
 
 ## Questions and their answers 
 ## What is the Percentage of people in the population getting bullied? ⭐
-![image](https://github.com/aymanreda56/Data-Science/assets/58632281/1a3de8b8-0dec-4e52-a13d-46dea3c17a2d)
+![image](https://github.com/aymanreda56/Data-Science/assets/58632281/7cb6fb0f-3e12-46d6-a1fe-47de9ced448f)
 
 From this cross-table we can see that 59.3% didn’t report any form of bullying.
 Meaning that the remaining 40.7% suffer from at least one form of bullying which is a large percentage.
@@ -67,7 +67,8 @@ This also means that the psychological reasons for bullying a kid is in the kid 
 
 
 ## How many close friends does a student have on average? ⭐
-![image](https://github.com/aymanreda56/Data-Science/assets/58632281/9f1a8095-4b8b-42e0-be6d-0564c4ae72d2)
+![image](https://github.com/aymanreda56/Data-Science/assets/58632281/a342035a-b6dc-402c-867a-3a280eca6147)
+
 
 average close friends reported from bullied kids <= 1
 
@@ -76,7 +77,8 @@ average close friends reported from bullied kids <= 1
 
 
 ## What is the relationship between being physically attacked and missing school? ⭐
-![image](https://github.com/aymanreda56/Data-Science/assets/58632281/d3445d1b-7443-4070-80be-9e24dde11911)
+![image](https://github.com/aymanreda56/Data-Science/assets/58632281/691cb38b-d66f-419c-822d-d54d667d5897)
+
 
 We should try to minimize fights as little as possible, so kids don’t miss school and other important days.
 The variable “engaged_in_a_fight” is a binary variable if the student undergoes any form of fighting or attacking,
@@ -92,31 +94,33 @@ We combined between all variables of being bullied (bullied in school on past 12
 And the result that there are a few student suffer from any sort of bullying
 
 
-![image](https://github.com/aymanreda56/Data-Science/assets/58632281/b0e5ded9-c364-4049-8e46-da9ba221b2bb)
+![image](https://github.com/aymanreda56/Data-Science/assets/58632281/b0adb56d-e834-4888-8b46-8518b9885ca1)
 
-![image](https://github.com/aymanreda56/Data-Science/assets/58632281/8912bef4-b868-4b36-8309-643f7bdc0368)
+![image](https://github.com/aymanreda56/Data-Science/assets/58632281/34102940-8364-4f5d-b8cd-91eb3e541b01)
+
 
 **The average day to miss school without permission:**
 
-![image](https://github.com/aymanreda56/Data-Science/assets/58632281/456dcb6d-5c80-4bed-9146-e7812cfc6356)
+![image](https://github.com/aymanreda56/Data-Science/assets/58632281/f690f75d-7920-474b-bc16-258a9aa9ec04)
 
 ### Expectations: bullied kids miss more than one day
 ### Reality: only a day!
 ### Conclusion: there must be another hidden Variable we didn't make use of!
 
 ## What’s the relationship between body level and being bullied? ⭐
-![image](https://github.com/aymanreda56/Data-Science/assets/58632281/c8c82c53-fde3-4772-9ff6-5916c7aea3c3)
+![image](https://github.com/aymanreda56/Data-Science/assets/58632281/3fad44b1-2eab-4e94-b607-5bd5f455e16b)
 
 unlike our expectations, body level does not contribute to more bullying, some people are just funny and loveable regardless of their physique 💝
 
 ## Can we predict that a student misses school with no permission given the number of close friends, parents understanding problems, feeling lonely and other students kind and helpful? ⭐
 
 ## Is body level related to the number of close friends? ⭐
-![image](https://github.com/aymanreda56/Data-Science/assets/58632281/65b176b3-cfe1-4ca1-ab04-13084ce064ef)
+![image](https://github.com/aymanreda56/Data-Science/assets/58632281/ce54b28d-64f1-4b23-9cb4-d90649609bf6)
 
 
 ## Are bullying and missing school going to increase in the future? ⭐
-![image](https://github.com/aymanreda56/Data-Science/assets/58632281/4903e9f9-54b8-459e-8456-d1aaf5511b85)
+![image](https://github.com/aymanreda56/Data-Science/assets/58632281/ac32fe60-feeb-4c31-a7b4-9701172248a2)
+
 
 from this infograph we conclude that as kids age, their probability of experiencing bullying decreases, as they become more mature and responsible.
 but this does not indicate anything about bullying in the future!
@@ -125,12 +129,12 @@ but this does not indicate anything about bullying in the future!
 
 this question is supposed to be answered by research and field knowledge, but we conducted our usual studies whatsoever, trying to find a variable having more correlation with bullying.
 
-![image](https://github.com/aymanreda56/Data-Science/assets/58632281/2af25797-6b35-447d-bc55-af436b9b0144)
+![image](https://github.com/aymanreda56/Data-Science/assets/58632281/246f3612-0855-494b-83e6-4ec2d5ebd1b3)
 
 
 ## Does bullying differ based on gender? ⭐
 
-![image](https://github.com/aymanreda56/Data-Science/assets/58632281/bc28a2d7-107d-410d-987e-aed3e640121c)
+![image](https://github.com/aymanreda56/Data-Science/assets/58632281/bf3ab1ff-c9cb-462a-91f8-b0bff0640b6a)
 
 
 Females experience more bullying than males, Perhaps because males are not likely to report being bullied and bottling everything unlike girls which can talk openly about their feelings.
