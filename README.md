@@ -4,7 +4,8 @@
 This project is an implementation of our Data-Science course project, it involves choosing questions, doing the famous DS epicycle to solve each question as is. then documenting the results after each step.
 
 ### The Famous DS epicycle  🔩
-![image](https://bookdown.org/rdpeng/artofdatascience/epicycles-of-analysis.html)
+![image](https://github.com/aymanreda56/Data-Science/assets/58632281/25e625cc-581f-41e7-b254-7014c369d712)
+
 
 ## Problem Definition 😟
 Bullying was present for a long period of time but left unnoticed, bullying is tightly correlated with PTSD among children. 95% of patients in psych wards reported being bullied during their childhood.
